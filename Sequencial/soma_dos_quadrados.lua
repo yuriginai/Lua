@@ -7,7 +7,7 @@
   print ("Insira o terceiro valor \n")
   local c = io.read();
 
-  local s = a + b + c
+  local s = a^2 + b^2 + c^2
 
   print ("Soma =",s)
 --FIM--
