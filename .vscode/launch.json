@@ -8,7 +8,7 @@
             "type": "lua",
             "request": "launch",
             "name": "Debug",
-            "program": "${workspaceFolder}/Sequencial/conversao_real_dolar.lua"
+            "program": "${workspaceFolder}/Sequencial/"
         }
     ]
 }
