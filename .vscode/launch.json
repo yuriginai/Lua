@@ -8,7 +8,7 @@
             "type": "lua",
             "request": "launch",
             "name": "Debug",
-            "program": "${workspaceFolder}/Sequencial/quadrado_da_divisao.lua"
+            "program": "${workspaceFolder}/Condicional/maior_que_3.lua"
         }
     ]
 }
