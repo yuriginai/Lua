@@ -8,7 +8,7 @@
             "type": "lua",
             "request": "launch",
             "name": "Debug",
-            "program": "${workspaceFolder}/Condicional/maior_que_3.lua"
+            "program": "${workspaceFolder}/Condicional/equacao_2_grau.lua"
         }
     ]
 }
