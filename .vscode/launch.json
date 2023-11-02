@@ -8,7 +8,7 @@
             "type": "lua",
             "request": "launch",
             "name": "Debug",
-            "program": "${workspaceFolder}/Condicional/divisiveis_por_2_e_3_4_variaveis.lua"
+            "program": "${workspaceFolder}/Condicional/maior_valor_entre_5_variaveis.lua"
         }
     ]
 }
