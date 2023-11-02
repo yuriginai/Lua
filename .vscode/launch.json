@@ -8,7 +8,7 @@
             "type": "lua",
             "request": "launch",
             "name": "Debug",
-            "program": "${workspaceFolder}/Condicional/equacao_2_grau.lua"
+            "program": "${workspaceFolder}/Condicional/divisiveis_por_2_e_3_4_variaveis.lua"
         }
     ]
 }
