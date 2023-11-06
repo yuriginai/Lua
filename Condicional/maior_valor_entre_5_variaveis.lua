@@ -10,7 +10,6 @@ print("Insira o quarto valor: ")
 D = tonumber(io.read())
 print("Insira o quinto valor: ")
 E = tonumber(io.read())
-
 --MAIOR VALOR--
 if (A > B) and (A > C) and (A > D) and (A > E) then
     print("O maior valor é: ", A)
@@ -29,9 +28,7 @@ else
         end
     end
 end
-
---MENOR VALOR--
-
+--MENOR VALOR-
 if (A < B) and (A < C) and (A < D) and (A < E) then
     print ("O menor valor é: ", A)
 else  
